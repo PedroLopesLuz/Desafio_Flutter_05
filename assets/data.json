@@ -1,0 +1,9 @@
+{
+    "contatos": [
+     {
+         "nome": "jorge",
+         "status": "disponivel",
+         "cidade": "canoas"
+     }
+    ]
+}

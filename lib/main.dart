@@ -1,10 +1,13 @@
+import 'package:challenge4/splash_page.dart';
 import 'package:flutter/material.dart';
-import 'app_widget.dart';
+
 import 'home_page.dart';
 
 void main() {
-  runApp(const AppWidget());
+  runApp( 
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+    home:SplashPage()));
 }
 
 
- // assets
